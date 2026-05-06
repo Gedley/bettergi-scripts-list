@@ -1,5 +1,5 @@
 {
-  "time": "20260426210104",
+  "time": "20260506193626",
   "url": "https://github.com/babalae/bettergi-scripts-list/archive/refs/heads/main.zip",
   "file": "repo.json",
   "indexes": [
@@ -20495,17 +20495,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "第一个采集点位往里挪了一下，否则容易冲下坡",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "07-劫波莲-觉王之殿-3个.json",
@@ -20516,17 +20519,20 @@
                             {
                               "name": "lifrom",
                               "link": "https://github.com/pkjsjq"
+                            },
+                            {
+                              "name": "大帅比"
                             }
                           ],
-                          "description": "",
+                          "description": "直行会卡死，往右边绕了一下",
                           "tags": [
-                            "bgi≥0.42.0",
+                            "bgi≥0.52.0",
                             "地方特产",
                             "须弥",
                             "劫波莲",
                             "纳西妲"
                           ],
-                          "lastUpdated": "2026-04-15 19:52:58"
+                          "lastUpdated": "2026-05-01 12:59:34"
                         },
                         {
                           "name": "08-劫波莲-须弥城西边-7个.json",
@@ -69068,6 +69074,1513 @@
                   ]
                 },
                 {
+                  "name": "无草神@蜜柑魚",
+                  "type": "directory",
+                  "children": [
+                    {
+                      "name": "A01-松茸-蒙德-晨曦酒庄西-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A02-松茸-蒙德-塞西莉亚苗圃南-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A03-松茸-蒙德-塞西莉亚苗圃东-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A04-松茸-蒙德-苍风高地七天神像北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A05-松茸-蒙德-苍风高地七天神像东南-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A06-松茸-蒙德-清泉镇西北-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A07-松茸-蒙德-清泉镇东南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A08-松茸-蒙德-覆雪之路北-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A09-松茸-蒙德-覆雪之路东-15个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A10-松茸-蒙德-鹰之门-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A11-松茸-蒙德-誓言岬-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A12-松茸-蒙德-达达乌帕谷-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A13-松茸-蒙德-急冻树西南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A14-松茸-蒙德-北风之狼的庙宇-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A15-松茸-蒙德-千风神殿-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A16-松茸-蒙德-望风角东-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A17-松茸-蒙德-望风角北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A18-松茸-蒙德-望风山地-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A19-松茸-蒙德-西风之鹰的庙宇-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A20-松茸-蒙德-星落湖-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A21-松茸-蒙德-明冠峽-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A22-松茸-蒙德-风车镇西北-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A23-松茸-蒙德-风车镇南-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A24-松茸-蒙德-风息山七天神像-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A25-松茸-蒙德-荆夫港北-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "A26-松茸-蒙德-疗养院旧址-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B01-松茸-璃月-云来海七天神像-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B02-松茸-璃月-渌华池-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B03-松茸-璃月-归离原-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B04-松茸-璃月-明蕴镇七天神像-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B05-松茸-璃月-明蕴镇东-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B06-松茸-璃月-幽境危战-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B07-松茸-璃月-石门-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B08-松茸-璃月-纯水精灵东-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B09-松茸-璃月-无妄坡-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B10-松茸-璃月-天道谷东南-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B11-松茸-璃月-天道谷北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B12-松茸-璃月-天道谷西北-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B13-松茸-璃月-绝云间东-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B14-松茸-璃月-望舒客栈西-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B15-松茸-璃月-绝云间东北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B16-松茸-璃月-珉林-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B17-松茸-璃月-华池岩岫-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B18-松茸-璃月-沉玉谷·上谷七天神像-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B19-松茸-璃月-古茶树坡-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B20-松茸-璃月-灵濛山-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B21-松茸-璃月-遗珑埠东-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B22-松茸-璃月-暝垣山南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "B23-松茸-璃月-赤望台-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "C01-松茸-稲妻-九条阵屋北-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "C02-松茸-稲妻-踏鞴砂东-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E01-枫丹-枫丹廷西1-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E02-枫丹-枫丹廷西2-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E03-枫丹-枫丹廷西北1-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E04-枫丹-枫丹廷西北2-9个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E05-枫丹-深潮的余响-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E06-枫丹-枫丹廷西北3-9个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E07-枫丹-黎翡区七天神像西-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E08-枫丹-芒索斯山东麓西南-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E09-枫丹-芒索斯山东麓西北-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E10-枫丹-千年珍珠骏麟东北-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E11-枫丹-新枫丹科学院1-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E12-枫丹-新枫丹科学院2-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E13-枫丹-新枫丹科学院3-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E14-枫丹-新枫丹科学院4-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E15-枫丹-新枫丹科学院5-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E16-枫丹-新枫丹科学院6-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E17-枫丹-中央实验室遗址东北-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E18-枫丹-中央实验室遗址东南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E19-枫丹-实验性场力发生装置-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E20-枫丹-废弃实验室南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E21-枫丹-茉洁站-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "E22-枫丹-湖中垂柳-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G01-松茸-挪德卡莱-七天神像-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G02-松茸-挪德卡莱-七天神像西-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G03-松茸-挪德卡莱-那夏镇-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G04-松茸-挪德卡莱-蓝珀湖-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G05-松茸-挪德卡莱-月矩力试验设计局西-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    },
+                    {
+                      "name": "G06-松茸-挪德卡莱-月矩力试验设计局北-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "松茸"
+                      ],
+                      "lastUpdated": "2026-04-30 08:53:54"
+                    }
+                  ]
+                },
+                {
                   "name": "有草神@曦",
                   "type": "directory",
                   "children": [
@@ -79269,384 +80782,1275 @@
               "type": "directory",
               "children": [
                 {
-                  "name": "01-苦种-纳塔-隆崛坡-3个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                  "name": "苦种@不瘦五十斤不改名",
+                  "type": "directory",
+                  "children": [
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
+                      "name": "01-苦种-纳塔-隆崛坡-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "02-苦种-纳塔-硫晶支脉-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "03-苦种-纳塔-硫晶支脉-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "04-苦种-纳塔-硫晶支脉-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "05-苦种-纳塔-硫晶支脉-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "06-苦种-纳塔-回声之子-10个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "07-苦种-纳塔-悬木人-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "08-苦种-纳塔-彩石顶-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "09-苦种-纳塔-溶水域-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "10-苦种-纳塔-溶水域-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "11-苦种-纳塔-悬木人(高危)-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "12-苦种-纳塔-柴薪之丘-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "13-苦种-纳塔-花羽会-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "14-苦种-纳塔-花羽会-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "15-苦种-纳塔-花羽会-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "16-苦种-纳塔-花羽会-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "17-苦种-纳塔-烟谜主-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "不瘦五十斤不改名",
+                      "authors": [
+                        {
+                          "name": "不瘦五十斤不改名",
+                          "link": "https://github.com/PanZic"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "18-苦种-纳塔-安绕之野-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "19-苦种-纳塔-踞石山-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "20-苦种-纳塔-提提岛-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
                     }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
+                  ]
                 },
                 {
-                  "name": "02-苦种-纳塔-硫晶支脉-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                  "name": "苦种@蜜柑魚",
+                  "type": "directory",
+                  "children": [
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "03-苦种-纳塔-硫晶支脉-6个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "01-苦种-悬木人左-15个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "04-苦种-纳塔-硫晶支脉-8个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "02-苦种-彩石顶西-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "05-苦种-纳塔-硫晶支脉-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "03-苦种-彩石顶南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "06-苦种-纳塔-回声之子-10个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "04-苦种-秘源机兵BOSS南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "07-苦种-纳塔-悬木人-5个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "05-苦种-窃火者密岛-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "08-苦种-纳塔-彩石顶-7个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "06-苦种-竞技场东北1-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "09-苦种-纳塔-溶水域-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "07-苦种-竞技场东北2-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "10-苦种-纳塔-溶水域-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "08-苦种-竞技场东北3-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "11-苦种-纳塔-悬木人(高危)-13个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "09-苦种-锯石山之底1-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "12-苦种-纳塔-柴薪之丘-4个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "10-苦种-锯石山之底2-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "13-苦种-纳塔-花羽会-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "11-苦种-锯石山-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "14-苦种-纳塔-花羽会-4个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "12-苦种-坚岩隘谷1-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "15-苦种-纳塔-花羽会-2个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "13-苦种-坚岩隘谷2-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.42.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "16-苦种-纳塔-花羽会-3个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "14-苦种-深古瞭望所西-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "17-苦种-纳塔-烟谜主-8个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "不瘦五十斤不改名",
-                  "authors": [
+                      "name": "15-苦种-深古瞭望所北-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "不瘦五十斤不改名",
-                      "link": "https://github.com/PanZic"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "18-苦种-纳塔-安绕之野-6个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "芝士贝果",
-                  "authors": [
+                      "name": "16-苦种-隆崛坡西北-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "芝士贝果",
-                      "link": "https://github.com/cheese-bagel"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "19-苦种-纳塔-踞石山-8个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "芝士贝果",
-                  "authors": [
+                      "name": "17-苦种-彩石顶-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "芝士贝果",
-                      "link": "https://github.com/cheese-bagel"
-                    }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
-                },
-                {
-                  "name": "20-苦种-纳塔-提提岛-6个.json",
-                  "type": "file",
-                  "version": "1.0",
-                  "author": "芝士贝果",
-                  "authors": [
+                      "name": "18-苦种-祖遗庙宇1-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
                     {
-                      "name": "芝士贝果",
-                      "link": "https://github.com/cheese-bagel"
+                      "name": "19-苦种-祖遗庙宇1-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "20-苦种-回声之子下-13个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种",
+                        "有攀爬"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "21-苦种-回声之子1-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        },
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "22-苦种-回声之子2-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "23-苦种-回声之子3-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "24-苦种-回声之子4-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "25-苦种-硫晶支脉1-7个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "26-苦种-硫晶支脉2-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "27-苦种-硫晶支脉3-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "28-苦种-坚岩隘谷4-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "29-苦种-柴薪之丘-11个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "白白喵",
+                      "authors": [
+                        {
+                          "name": "白白喵",
+                          "link": "https://github.com/taotao568685"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "30-苦种-翘枝崖-花羽会东南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "31-苦种-翘枝崖-花羽会曜石图腾柱1-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "32-苦种-翘枝崖-花羽会曜石图腾柱2-4个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "33-苦种-翘枝崖-花羽会西-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "34-苦种-翘枝崖-花羽会南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "35-苦种-翘枝崖-七天神像-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "36-苦种-镜壁山-烟谜主西-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "37-苦种-镜壁山-七天神像-1个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "38-苦种-镜壁山-烟谜主-8个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "39-苦种-镜壁山-烟谜主南-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "40-苦种-安饶之野1-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "41-苦种-安绕之野2-6个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "42-苦种-瓦雷莎果園-5个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "43-苦种-悠悠度假村-七天神像-2个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "44-苦种-悠悠度假村-提提岛1-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "45-苦种-悠悠度假村-提提岛2-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "芝士贝果",
+                      "authors": [
+                        {
+                          "name": "芝士贝果",
+                          "link": "https://github.com/cheese-bagel"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
+                    },
+                    {
+                      "name": "46-苦种-悠悠度假村-提提岛3-3个.json",
+                      "type": "file",
+                      "version": "1.0",
+                      "author": "蜜柑魚",
+                      "authors": [
+                        {
+                          "name": "蜜柑魚",
+                          "link": "https://github.com/this-Fish"
+                        }
+                      ],
+                      "description": "",
+                      "tags": [
+                        "bgi≥0.52.0",
+                        "食材与炼金",
+                        "苦种"
+                      ],
+                      "lastUpdated": "2026-04-27 22:15:53"
                     }
-                  ],
-                  "description": "",
-                  "tags": [
-                    "bgi≥0.52.0",
-                    "食材与炼金",
-                    "苦种"
-                  ],
-                  "lastUpdated": "2026-04-15 19:52:58"
+                  ]
                 }
               ]
             },
@@ -96115,7 +98519,7 @@
         {
           "name": "AAA-Artifacts-Bulk-Supply",
           "type": "directory",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "author": "mno",
           "authors": [
             {
@@ -96131,7 +98535,7 @@
           "tags": [
             "狗粮"
           ],
-          "lastUpdated": "2026-04-19 06:20:12"
+          "lastUpdated": "2026-05-02 07:32:44"
         },
         {
           "name": "ABGIHoui",
@@ -96203,7 +98607,7 @@
         {
           "name": "AbundantOre",
           "type": "directory",
-          "version": "0.31",
+          "version": "0.33",
           "author": "芝士贝果",
           "authors": [
             {
@@ -96215,7 +98619,7 @@
           "tags": [
             "bgi≥0.60.0"
           ],
-          "lastUpdated": "2026-04-17 03:03:41"
+          "lastUpdated": "2026-05-06 21:35:36"
         },
         {
           "name": "AcceleratedEditionSwitchParty",
@@ -96425,7 +98829,7 @@
         {
           "name": "AutoArtifacts_A_B_Extra",
           "type": "directory",
-          "version": "2.5.5",
+          "version": "2.5.6",
           "author": "Yang-z",
           "authors": [
             {
@@ -96435,9 +98839,9 @@
           ],
           "description": "狗粮ABE路线，自动拾取分解~|~圣遗物狗粮AB及额外路线，自动轮换，自动分解，就近恢复。",
           "tags": [
-            "bgi≥0.45.1"
+            "bgi≥0.57.0"
           ],
-          "lastUpdated": "2025-10-01 13:50:46"
+          "lastUpdated": "2026-05-03 22:36:06"
         },
         {
           "name": "AutoBackpackCleaner",
@@ -96677,7 +99081,7 @@
         {
           "name": "AutoFriendshipFight",
           "type": "directory",
-          "version": "1.5.2",
+          "version": "1.5.4",
           "author": "秋云",
           "authors": [
             {
@@ -96695,12 +99099,12 @@
             "鳄鱼",
             "兽肉"
           ],
-          "lastUpdated": "2026-04-26 21:00:34"
+          "lastUpdated": "2026-05-01 21:14:52"
         },
         {
           "name": "AutoFriendshipFowl",
           "type": "directory",
-          "version": "1.4",
+          "version": "1.5",
           "author": "花火",
           "authors": [
             {
@@ -96709,20 +99113,24 @@
             {
               "name": "秋云",
               "link": "https://github.com/physligl"
+            },
+            {
+              "name": "Gedley",
+              "link": "https://github.com/Gedley"
             }
           ],
-          "description": "鸡腿好感~|~通过喂狗突发事件刷好感度，确保队伍满员，4个角色都能刷，每天上限10次",
+          "description": "鸡腿好感~|~消耗禽肉喂狗，完成“动物密友”好感任务，获取角色好感、摩拉、锻造矿。确保队伍满员，每天最多10次。",
           "tags": [
-            "bgi≥0.44.0",
+            "bgi≥0.45.0",
             "好感",
             "突发事件"
           ],
-          "lastUpdated": "2026-01-23 00:33:05"
+          "lastUpdated": "2026-04-27 22:20:51"
         },
         {
           "name": "AutoHoeingOneDragon",
           "type": "directory",
-          "version": "2.8.2",
+          "version": "2.9.1",
           "author": "mno",
           "authors": [
             {
@@ -96736,7 +99144,7 @@
           ],
           "description": "锄地一条龙~|~一站式解决自动化锄地，支持只拾取狗粮，请仔细阅读README.md后使用",
           "tags": [],
-          "lastUpdated": "2026-04-22 08:24:17"
+          "lastUpdated": "2026-05-06 19:35:57"
         },
         {
           "name": "AutoInstructorLock",
@@ -97348,6 +99756,23 @@
           "lastUpdated": "2025-08-07 22:44:47"
         },
         {
+          "name": "LinneaMining",
+          "type": "directory",
+          "version": "0.2.0",
+          "author": "躁动的氨气",
+          "authors": [
+            {
+              "name": "躁动的氨气",
+              "link": "https://github.com/zaodonganqi"
+            }
+          ],
+          "description": "莉奈娅挖矿一条龙~|~不分矿种，稳定刷新即挖",
+          "tags": [
+            "bgi≥0.60.2"
+          ],
+          "lastUpdated": "2026-05-01 21:30:13"
+        },
+        {
           "name": "MiliastraExperiencePlayback",
           "type": "directory",
           "version": "0.1.15",
@@ -97582,7 +100007,7 @@
         {
           "name": "SetTime",
           "type": "directory",
-          "version": "1.0",
+          "version": "1.1",
           "author": "Tim",
           "authors": [
             {
@@ -97603,7 +100028,7 @@
           ],
           "description": "调整游戏时间~|~用于调整游戏时间",
           "tags": [],
-          "lastUpdated": "2026-01-12 15:27:06"
+          "lastUpdated": "2026-05-02 09:37:54"
         },
         {
           "name": "SkipMonthlyCard",
@@ -97625,7 +100050,7 @@
         {
           "name": "SwitchAccountMultipleMode",
           "type": "directory",
-          "version": "2.0",
+          "version": "2.1",
           "author": "起个名字好难的喵",
           "authors": [
             {
@@ -97650,6 +100075,9 @@
             {
               "name": "空",
               "link": "https://pd.qq.com/g/620449244035027412/post/B_022e6a69a93f0a001441152193488791090X60?showGuild=1&errCode=0&asideType=Full"
+            },
+            {
+              "name": "檬"
             }
           ],
           "description": "切换账号多模式~|~多种模式的切换账号，有下拉列表、填写账号密码OCR操作或键鼠操作，目前支持B服/国际服但不完整\n免责申明：所有的账号密码均保存在本地，请使用者妥善保管账号密码，请勿外泄账号密码。若因使用此脚本导致的账号泄露、封禁问题与脚本作者无关。",
@@ -97659,7 +100087,7 @@
             "鼠标点击",
             "OCR"
           ],
-          "lastUpdated": "2026-03-31 12:38:40"
+          "lastUpdated": "2026-05-01 19:23:52"
         },
         {
           "name": "TCGQuickProficiency",
@@ -97745,7 +100173,7 @@
         {
           "name": "WeeklyBoss",
           "type": "directory",
-          "version": "3.2.1",
+          "version": "3.2.2",
           "author": "柒叶子",
           "authors": [
             {
@@ -97755,7 +100183,7 @@
           ],
           "description": "周本一条龙~|~https://www.bilibili.com/video/BV1F2uvz3E4K/?vd_source=9dfaf88af48ecc0ff95a41f1145af7a2",
           "tags": [],
-          "lastUpdated": "2026-04-10 19:21:03"
+          "lastUpdated": "2026-05-04 19:34:22"
         },
         {
           "name": "WeeklyThousandStarRealm",
@@ -98132,7 +100560,7 @@
         {
           "name": "批量讨伐角色养成材料BOSS",
           "type": "directory",
-          "version": "0.6.1",
+          "version": "0.6.2",
           "author": "DarkFlameMaster",
           "authors": [
             {
@@ -98142,7 +100570,7 @@
           ],
           "description": "批量讨伐角色养成材料BOSS~|~一次性配置多个角色材料的boss，体力不足时保存进度，每次运行时断点续打",
           "tags": [],
-          "lastUpdated": "2026-04-12 12:36:05"
+          "lastUpdated": "2026-05-03 22:11:16"
         },
         {
           "name": "日志分析工具",
@@ -98302,7 +100730,7 @@
         {
           "name": "自动购买商品",
           "type": "directory",
-          "version": "3.3.1",
+          "version": "3.3.2",
           "author": "蜜柑魚",
           "authors": [
             {
@@ -98317,7 +100745,7 @@
             "购买商品",
             "模拟点击"
           ],
-          "lastUpdated": "2026-04-25 22:37:12"
+          "lastUpdated": "2026-04-30 10:10:05"
         },
         {
           "name": "自动领取成就奖励",
@@ -98442,7 +100870,7 @@
         {
           "name": "铁匠铺",
           "type": "directory",
-          "version": "2.4.1",
+          "version": "2.4.2",
           "author": "呱呱z",
           "authors": [
             {
@@ -98467,7 +100895,7 @@
             "模板匹配",
             "OCR"
           ],
-          "lastUpdated": "2026-01-11 09:54:53"
+          "lastUpdated": "2026-04-30 08:52:19"
         },
         {
           "name": "食材加工",
