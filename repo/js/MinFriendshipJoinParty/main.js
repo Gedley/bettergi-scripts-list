@@ -69,7 +69,7 @@ async function isMainUI() {
     let result;
     let exists;
 
-    await sleep(200);
+    await sleep(1000);
     gameRegion = captureGameRegion();
     result = gameRegion.find(mainUIRo);
     gameRegion.dispose();
