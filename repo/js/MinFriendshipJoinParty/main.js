@@ -227,11 +227,20 @@ async function selectCharacter() {
         }
     }
     gameRegion.dispose();
+    if (number < 4) {
+        log.warn(`仅选中 ${number} 名角色，少于预期的 4 人；可能候选角色不足或图标识别失败`);
+    }
 
     await sleep(1000);
     gameRegion = captureGameRegion();
     result = gameRegion.find(saveSettingsRo);
     if (result.isExist()) { result.click(); }
+    else {
+        result.dispose();
+        gameRegion.dispose();
+        log.error("未找到“保存配置”按钮，可能没有任何角色被选中");
+        return false;
+    }
     result.dispose();
     gameRegion.dispose();
 
